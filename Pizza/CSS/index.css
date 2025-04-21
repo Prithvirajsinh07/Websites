@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
 /**************************** same class of all  ********************************/
 p {
     font-family: "Montserrat", sans-serif;
